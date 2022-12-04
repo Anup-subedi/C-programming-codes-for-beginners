@@ -23,6 +23,4 @@ continually modified for any beginner, no matter your level.
 
 ### Do you want to contribute?  
 
-Then check out the official doc  of github or go through youtube's indian guys' channel.  They are awesome. 
-
-and you will be okay, and after making your first pull request, you will get your first contribution, Isn't that great? Hurry and send the Pull request now.
+Then check out the official doc  of github or go through any indian guys' youtube channel.  They are awesome. And after making your first pull request, you will get your first contribution, Isn't that great? Hurry and send the Pull request now.
